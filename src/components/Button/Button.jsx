@@ -9,7 +9,7 @@ function Button (props) {
             <button 
                 className="btn" 
                 onClick={props.handleClick}
-            > Generate Anime</button>
+            >{props.val} </button>
             
         </>
     )

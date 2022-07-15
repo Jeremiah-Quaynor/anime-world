@@ -1,5 +1,5 @@
 .btn {
-    background-color: #04AA6D;
+    background-color: #1f38a9;
     border: none;
     color: white;
     padding: 20px;
@@ -7,5 +7,11 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
+    /* margin: 4px 2px 50%; */
+    margin-top: 2%;
+    margin-left: 60%;
+
+    border-radius: 14px;
 }
+
+/* style={{"marginBottom":"10%","marginLeft": "40%","marginTop": "5%", "display": "block"}} */
